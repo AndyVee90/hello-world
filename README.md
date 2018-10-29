@@ -1,2 +1,5 @@
 # hello-world
-me furst repsitoury
+
+'tis me furst repsitoury
+
+so far so gud
